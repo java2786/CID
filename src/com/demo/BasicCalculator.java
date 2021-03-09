@@ -7,6 +7,7 @@ public class BasicCalculator {
 		for(int num:nums) {
 			sum += num;
 		}
+		
 		return sum;
 	}
 }
