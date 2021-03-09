@@ -8,7 +8,7 @@ public class BasicCalculator {
 			sum += num;
 		}
 		
-		// return result
+		// return result+
 		return sum;
 	}
 }
